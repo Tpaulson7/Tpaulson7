@@ -5,5 +5,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-An aspiring Data Analyst with a hunger to learn. Ever since I first discovered the world of data I've been hooked, constantly learning new ways to clean, process, and use data in way's I never knew were possible.
+I am a motivated and enthusiastic aspiring Data Analyst with a passion for continuous learning. My fascination with the vast potential of data led me to immerse myself in the field and acquire extensive knowledge on a variety of topics, including data cleaning, processing, and analysis. I am dedicated to leveraging my skills and expertise to uncover valuable insights that can drive meaningful business decisions.
 
