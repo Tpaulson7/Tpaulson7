@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data analysis and Machine learning**
 
-- 📫 How to reach me **tpaulson9977@gmail.com**
+- 📫 How to reach me **Tyler.Paulson7@gmail.com**
 
 - ⚡ Fun fact **I love custom keyboards**
 
