@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Tyler</h1>
 <h3 align="center">I'm a curious Data Analyst with a passion for learning.</h3>
 
-- 🌱 I’m currently learning **Machine Learning** and **Statistics** 
+- 🌱 I’m currently learning **Machine Learning** and **Statistics**
 
-- 📫 How to reach me **Tyler.Paulson7@gmail.com**
+- 💻 I create models with: **Python**, **SQL**, **Tableau**, and **Power BI**
 
 - ⚡ Fun fact **I love custom keyboards**
 
