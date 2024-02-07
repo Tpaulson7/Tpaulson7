@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tyler</h1>
 <h3 align="center">I'm a curious Data Analyst with a passion for learning.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **Statistics** 
 
 - 📫 How to reach me **Tyler.Paulson7@gmail.com**
 
