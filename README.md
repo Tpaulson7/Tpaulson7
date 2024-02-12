@@ -26,6 +26,6 @@ Feel free to explore my repositories to see more of my frontend work!
 
 ## Let's Connect!
 
-📫 You can reach out to me via [email](Tyler.Paulson7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tpaulson7/).
+📫 You can reach out to me via [email](mailto:Tyler.Paulson7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tpaulson7/).
 
 Excited to collaborate on projects and connect with fellow developers! 
