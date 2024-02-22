@@ -3,15 +3,14 @@
 
 ## About Me
 
-I'm an aspiring web developer passionate about creating dynamic and user-friendly websites. I love to learn and explore new technologies, and GitHub is where I showcase my coding journey.
-
+I am an enthusiastic aspiring software engineer, dedicated to continual learning and advancement in the field of technology. Driven by curiosity and a strong work ethic, I am fully committed to honing my skills in software development and making significant contributions to the industry. GitHub serves as my platform for experimentation, learning, and showcasing my evolving expertise as I progress in my career as a software engineer.
 
 ## Current Focus
-- 🌱 I’m currently learning HTML, CSS, and JavaScript to build the foundation of my web development skills.
+- 🌱 I’m currently learning Python and SQL to build the foundation of my software engineering skills.
 
-- 💻 I'm eager to explore advanced concepts like API development, authentication, and database management as I progress in my journey to becoming a proficient backend developer.
+- 💻 As I continue to grow, I am eager to delve into more advanced topics such as software design patterns and testing methodologies. My focus is on acquiring practical experience through personal projects and collaborative endeavors, preparing myself to tackle real-world challenges with confidence and innovation.
 
-- ⚡ Fun fact, I love custom keyboards
+- ⚡ Fun fact, I love custom keyboards 
 
 
 ## Projects
