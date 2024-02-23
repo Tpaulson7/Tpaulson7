@@ -6,11 +6,11 @@
 I am an enthusiastic aspiring software engineer, dedicated to continual learning and advancement in the field of technology. Driven by curiosity and a strong work ethic, I am fully committed to honing my skills in software development and making significant contributions to the industry. GitHub serves as my platform for experimentation, learning, and showcasing my evolving expertise as I progress in my career as a software engineer.
 
 ## Current Focus
-- 🌱 I’m currently learning Python and SQL to build the foundation of my software engineering skills.
+- 🌱 I’m currently exploring Python and SQL to create exciting projects.
 
 - 💻 As I continue to grow, I am eager to delve into more advanced topics such as software design patterns and testing methodologies. My focus is on acquiring practical experience through personal projects and collaborative endeavors, preparing myself to tackle real-world challenges with confidence and innovation.
 
-- ⚡ Fun fact, I love custom keyboards 
+- ⚡ Fun fact, I love custom keyboards.
 
 
 ## Projects
