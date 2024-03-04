@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am an enthusiastic aspiring software engineer, dedicated to continual learning and advancement in the field of technology. Driven by curiosity and a strong work ethic, I am fully committed to honing my skills in software development and making significant contributions to the industry. GitHub serves as my platform for experimentation, learning, and showcasing my evolving expertise as I progress in my career as a software engineer.
+I am an enthusiastic aspiring web developer, dedicated to continual learning and advancement in the field of technology. Driven by curiosity and a strong work ethic, I am fully committed to honing my skills in software development and making significant contributions to the industry. GitHub serves as my platform for experimentation, learning, and showcasing my evolving expertise as I progress in my career as a web developer.
 
 ## Current Focus
 - 🌱 I’m currently exploring Python and SQL to create exciting projects.
