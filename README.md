@@ -6,7 +6,7 @@
 I am an enthusiastic aspiring web developer, dedicated to continual learning and advancement in the field of technology. Driven by curiosity and a strong work ethic, I am fully committed to honing my skills in software development and making significant contributions to the industry. GitHub serves as my platform for experimentation, learning, and showcasing my evolving expertise as I progress in my career as a web developer.
 
 ## Current Focus
-- 🌱 I’m currently exploring Javascript, Python and SQL to create exciting projects.
+- 🌱 I’m currently exploring JavaScript, GO and SQL to create exciting projects.
 
 - 💻 As I continue to grow, I am eager to delve into more advanced topics such as software design patterns and testing methodologies. My focus is on acquiring practical experience through personal projects and collaborative endeavors, preparing myself to tackle real-world challenges with confidence and innovation.
 
