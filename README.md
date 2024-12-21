@@ -17,7 +17,6 @@ I am an enthusiastic aspiring web developer, dedicated to continual learning and
 
 Take a look at some of the projects I've been working on:
 
-- [Global Game Sales EDA](https://github.com/Tpaulson7/Portfolio_Projects/blob/main/Game%20Sales/Game_sales_EDA.ipynb): Conducted exploratory data analysis on global game sales data using Python, SQL, and Excel.
 - [Disney+ Content Analysis](https://github.com/Tpaulson7/Portfolio_Projects/blob/main/Disney%2B/disney_plus_eda.ipynb): Analyzed and visualized Disney+ content data using Python, SQL, and Matplotlib.
 
 Feel free to explore my repositories to see more of my work!
